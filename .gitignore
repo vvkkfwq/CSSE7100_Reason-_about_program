@@ -1,0 +1,22 @@
+# Dafny specific
+*.dfy.bak
+*.dfy.verification
+*.dfy.verification.log
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.dll
+*.exe
+*.obj
+*.o
+*.so
+*.dylib 
